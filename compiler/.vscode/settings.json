@@ -1,0 +1,14 @@
+{
+    "vim.otherModesKeyBindingsNonRecursive": [
+        {
+            "after": [],
+            "before": ["<leader>", "f", "f"],
+            "commands": [
+                {
+                    "command": "workbench.action.tasks.runTask",
+                    "args": "Format code"
+                }
+            ]
+        }
+    ]
+}

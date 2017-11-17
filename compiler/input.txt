@@ -1,0 +1,9 @@
+larry = 27
+curly = 19
+moe  = 8
+groucho = 11
+harpo = larry+curly
+harpo = larry-curly
+harpo = larry*curly
+harpo = larry/curly
+harpo = larry*curly+moe*groucho
